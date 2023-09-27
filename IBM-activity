@@ -1,0 +1,36 @@
+Data Science Tools and Ecosystem
+In this notebook, Data Science Tools and Ecosystem are summarized.
+
+Some of the popular languages that Data Scientists use are:
+
+Python
+R
+Java Table:
+Data Science Tools
+R Studio
+Anaconda
+Eclipse
+Below are a few examples of evaluating arithmetic expressions in Python
+[ ]
+(3*4)+5
+#This a simple arithmetic expression to mutiply then add integers
+
+output
+17
+[ ]
+#This will convert 200 minutes to hours by diving by 60
+minutes=200
+hours=minutes/60
+print(hours)
+
+output
+3.3333333333333335
+Objectives:
+
+List popular languages for Data Science
+R Studio
+Popular Python Libraries
+Author
+Jaime Rueda
+
+[ ]
